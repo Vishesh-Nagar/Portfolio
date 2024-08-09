@@ -340,6 +340,10 @@ footer .bottom .links a {
     font-size: 12px;
     margin-left: 14px;
 }
+#project-links {
+    font-size: 1.3em; /* Adjust the size as needed */
+    font-weight: bold;
+}
 
 @media screen and (max-width: 1200px) {
     .main .left h5 {
