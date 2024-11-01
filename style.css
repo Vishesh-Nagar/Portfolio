@@ -341,7 +341,7 @@ footer .bottom .links a {
     margin-left: 14px;
 }
 #project-links {
-    font-size: 1.3em; /* Adjust the size as needed */
+    font-size: 1.3em;
     font-weight: bold;
 }
 
@@ -504,6 +504,10 @@ footer .bottom .links a {
 
     .portfolio {
         padding: 20px;
+    }
+
+    .portfolio .portfo-items .item {
+        padding: 0;
     }
 
     footer {
